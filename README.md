@@ -14,3 +14,6 @@ debugging/reading failed tests:
 
 the red highlight is the failed case; the left side of the "==" is the output of your function, and on the right is the correct output - you can see the function call on the line before
 the "Captured stdout call" window is the result of your print statements
+
+
+UC Berkeley CS61A Summer 2022 course website (archive): https://inst.eecs.berkeley.edu/~cs61a/su22/
