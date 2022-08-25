@@ -8,7 +8,7 @@ instructions for setup in Replit:
 4. drag folder into Replit project
 5. enter folder and drag assignment file "ahs_lab0x.py" (this is where you will do all of your coding) into "ahs_lab0x_qx_test.py" (the x represents whatever number that file is)
 6. share your Replit project with "Robertian23"
-7. run auto-tester for each question using command: pytest ahs_lab0x_qx_test.py
+7. run auto-tester for each question using command: pytest ahs_lab0x_qx_test.py, MAKE SURE YOU ARE IN THE DIRECTORY WHERE YOU CAN SEE ALL THE TEST FILES
 
 
 debugging/reading failed tests:
