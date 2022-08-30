@@ -33,11 +33,3 @@ debugging/reading failed tests:
 
 - the red highlight is the failed case; the left side of the "==" is the output of your function, and on the right is the correct output - you can see the function call on the line before
 - you can use console to call functions/test your code in a Python interpreter
-  
-  
-  
-  
-  
-  
-  
-code questions are compiled from UC Berkeley CS61A resources and assignments, auto-tester and test cases written by Sean Morris (AHS CS teacher) and Robert Tian (c/o '23)
