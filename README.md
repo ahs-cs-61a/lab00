@@ -2,11 +2,8 @@
 
 instructions for setup in Replit:
 
-1. create new Python project in Replit for all projects
-2. go to shell and run "pip install -U pytest" to install pytest code tester (this is the auto tester)
-3. download files in each lab repository and unzip/extract zip file
-4. drag folder into Replit project
-5. enter folder and drag assignment file "ahs_lab0x.py" (this is where you will do all of your coding) into "ahs_lab0x_qx_test.py" (the x represents whatever number that file is)
+1. import GitHub repository for each lab into Replit (make sure the repository is public on GitHub - you have to pay on Replit to import private ones)
+2. go to shell and run "pip install -U pytest" to install pytest code tester (auto-tester)
 6. share your Replit project with "Robertian23"
 7. run auto-tester for each question using command: pytest ahs_lab0x_qx_test.py, MAKE SURE YOU ARE IN THE DIRECTORY WHERE YOU CAN SEE ALL THE TEST FILES
 
