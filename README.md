@@ -16,7 +16,7 @@ UC Berkeley CS61A Summer 2022 course website (archive): https://inst.eecs.berkel
 instructions for setup in Replit:
 
 1. import GitHub repository for each lab into Replit (make sure the repository is public on GitHub - you have to pay on Replit to import private ones)
-2. go to shell and run "python3 -m pip install pytest" to install pytest code tester (auto-tester)
+2. go to shell and run ```python3 -m pip install pytest``` to install pytest code tester (auto-tester)
 3. share your Replit project with "Robertian23"
   
 completing problems:
@@ -26,8 +26,8 @@ completing problems:
   
 running tests:
 
-- after completing each question, run the corresponding auto-tester for that question by running command: python3 -m pytest tests/test.py -k test_name (e.g. test_falling)
-- after completing ALL questions, run one final test for all questions by running command: python3 -m pytest tests/test.py
+- after completing each question, run the corresponding auto-tester for that question by running command: ```python3 -m pytest tests/test.py -k test_name_of_function``` 
+- after completing ALL questions, run one final test for all questions by running command: ```python3 -m pytest tests/test.py```
   
 debugging/reading failed tests:
 
