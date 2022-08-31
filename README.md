@@ -37,4 +37,4 @@ debugging/reading failed tests:
 helpful resources: 
  
 - Python Tutor: https://pythontutor.com/composingprograms.html#mode=edit, great visualization of frames and environments; to use: paste code into Python Tutor, click "visualize execution", and click through steps
-- CS61A Code: code.cs61a.org, easy and quick browser Python interpreter
+- CS61A Code: https://code.cs61a.org/, easy and quick browser Python interpreter
