@@ -10,7 +10,7 @@ UCB EECS has course websites archives available to the public, including lecture
 This is a great opportunity to learn new topics and techniques that are not present or harder to implement in OOP languages such as Java. After CS61A, there is 61B and 61C, which explore data structures and computer architecture, respectively. I hope you enjoy this course!  
 
 
-UC Berkeley CS61A Summer 2022 course website (archive): https://inst.eecs.berkeley.edu/~cs61a/su22/
+[UC Berkeley CS61A Summer 2022 course website (archive)](https://inst.eecs.berkeley.edu/~cs61a/su22/)
   
   
 instructions for setup in Replit:
@@ -36,5 +36,5 @@ debugging/reading failed tests:
 
 helpful resources: 
  
-- Python Tutor: https://pythontutor.com/composingprograms.html#mode=edit, great visualization of frames and environments; to use: paste code into Python Tutor, click "visualize execution", and click through steps
-- CS61A Code: https://code.cs61a.org/, easy and quick browser Python interpreter; for longer problems, paste code into a new file, run/open new Python interpreter by clicking green arrow in top right (do this every time you make changes to code in a file)
+- [Python Tutor](https://pythontutor.com/composingprograms.html#mode=edit): great visualization of frames and environments; to use: paste code into Python Tutor, click "visualize execution", and click through steps
+- [CS61A Code](https://code.cs61a.org/): easy and quick browser Python interpreter; for longer problems, paste code into a new file, run/open new Python interpreter by clicking green arrow in top right (do this every time you make changes to code in a file)
