@@ -28,6 +28,7 @@ running tests:
 
 - after completing each question, run the corresponding auto-tester for that question by running command: ```python3 -m pytest tests/test.py -k test_name_of_function``` 
 - after completing ALL questions, run one final test for all questions by running command: ```python3 -m pytest tests/test.py```
+- use main.py to test functions that print instead of return; click the green "Run" button after making changes in the lab assignment file and call functions in the console  
   
 debugging/reading failed tests:
 
