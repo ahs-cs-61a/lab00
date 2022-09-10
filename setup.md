@@ -2,8 +2,9 @@ instructions for setup in Replit:
 
 1. make Github repository public: settings, scroll to bottom -> change visibility -> complete verification, make public
 2. import GitHub repository for each lab into Replit
-3. go to shell and run ```python3 -m pip install pytest``` to install pytest code tester (auto-tester)
-4. share your Replit project with "Robertian23"
+3. select "labs/lab0x" from dropdown when asked to configure entry point
+4. go to shell and run ```python3 -m pip install pytest``` to install pytest code tester (auto-tester)
+5. share your Replit project with "Robertian23"
   
 completing problems:
   
