@@ -3,7 +3,7 @@
 1. make Github repository public: settings, scroll to bottom -> change visibility -> complete verification, make public
 2. import GitHub repository for each lab into Replit
 3. select "labs/lab0x" from dropdown when asked to configure entry point
-4. go to shell and run ```python3 -m pip install pytest``` to install pytest code tester (auto-tester)
+4. go to Shell and run ```python3 -m pip install pytest``` to install pytest code tester (auto-tester)
 5. run ```python -m pip install``` to correctly import files and packages
 6. share your Replit project with "Robertian23"
   
@@ -17,12 +17,16 @@ running tests:
 
 - after completing each question, run the corresponding auto-tester for that question by running command: ```python3 -m pytest tests/test.py -k test_name_of_function``` 
 - after completing ALL questions, run one final test for all questions by running command: ```python3 -m pytest tests/test.py```
-- use main.py to test functions that print instead of return; click the green "Run" button after making changes in the lab assignment file and call functions in the console  
-  
-debugging/reading failed tests:
 
+debugging & testing code:
+  
+- to test code yourself, put function calls in main.py and run ```python3 main.py``` in the Shell to see the output (you may need to put some stuff in prints); you don't have to press "Run" after making changes
 - the red highlight is the failed case; the left side of the "==" is the output of your function, and on the right is the correct output - you can see the function call on the line before
-- you can use console to call functions/test your code in a Python interpreter
+  
+running "What Would Python Display?" (WWPD?):
+  
+- un-comment the first WWPD line in main.py and run ```python3 main.py``` in the Shell and complete the questions
+- re-comment out that line and un-comment the next line after completing each question set
 
 helpful resources: 
  
