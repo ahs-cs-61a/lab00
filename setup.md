@@ -9,7 +9,7 @@
   
 completing problems:
   
-1. go over lecture slides in order, they are linked in the README file of each lab
+1. go over lecture slides in order, they are linked in the README file of each lab; optional corresponding lecture recordings will also be linked
 2. each lab assignment for this course merges lab, discussion, and hw questions from 61A (it was easier to just have one file, since the grade is not as important); sections of the lab assignment are separated, follow those links for problem descriptions and requirements
 3. each problem will have doctests (the lines of code under def statements with >>>); these show you the correct output for each input to the Python interpreter
   
