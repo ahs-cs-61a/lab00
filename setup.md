@@ -36,3 +36,4 @@ helpful resources:
 reminders:
   
 - everything is run in Shell, not Console!
+- after completing each lab, push to GitHub and complete the turn-in in GradeScope
