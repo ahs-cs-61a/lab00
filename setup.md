@@ -1,11 +1,8 @@
-# instructions for setup in Replit:
+# instructions for setup in CodeSpaces:
 
-1. make Github repository public: settings, scroll to bottom -> change visibility -> complete verification, make public
-2. import GitHub repository for each lab into Replit
-3. select "labs/lab0x" from dropdown when asked to configure entry point
-4. go to Shell and run ```python3 -m pip install pytest``` to install pytest code tester (auto-tester)
-5. run ```python3 -m pip install -e .``` to correctly import files and packages
-6. share your Replit project with "Robertian23"
+1. after accepting lab assignment, go to GitHub repo, and click "Code" and open up Codespaces ("Create codespace on main"), after creating one Codespace, you don't need to create a new one each time, you can open the previous one my pressing the arrow dropdown and selecting the most recent one
+2. go to Shell and run ```python3 -m pip install pytest``` to install pytest code tester (auto-tester)
+3. run ```python3 -m pip install -e .``` to correctly import files and packages
   
 completing problems:
   
@@ -35,5 +32,5 @@ helpful resources:
 
 reminders:
   
-- everything is run in Shell, not Console!
+- shortcut Ctrl + J can open the terminal
 - after completing each lab, push to GitHub and complete the turn-in in GradeScope
