@@ -12,8 +12,8 @@ completing problems:
   
 running "What Would Python Display?" (WWPD?):
   
-- un-comment the first WWPD line in main.py and run ```python3 main.py``` in the Shell and complete the questions
-- re-comment out that line and un-comment the next line after completing each question set
+1. un-comment the first WWPD line in main.py and run ```python3 main.py``` in the Shell and complete the questions
+2. re-comment out that line and un-comment the next line after completing each question set
   
 running tests:
   
@@ -26,6 +26,7 @@ helpful resources:
  
 - [Python Tutor](https://pythontutor.com/composingprograms.html#mode=edit): great visualization of frames and environments; to use: paste code into Python Tutor, click "visualize execution", and click through steps
 - [CS61A Code](https://code.cs61a.org/): easy and quick browser Python interpreter; for longer problems, paste code into a new file, run/open new Python interpreter by clicking green arrow in top right (do this every time you make changes to code in a file)
+- lab00 introduction & setup instructions on [Google Docs](https://docs.google.com/document/d/1YCo1iS3mdplKRYAResNNE8yLeJFYGdn9JhwUQyip3YI/edit?usp=sharing)
 
 reminders:
   
