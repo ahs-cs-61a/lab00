@@ -1,4 +1,4 @@
-# lab00 (introduction)
+# lab00: introduction
 
 WELCOME TO CS61A AT AHS!
 
