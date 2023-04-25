@@ -1,7 +1,7 @@
 # instructions for setup in CodeSpaces:
 
 1. after accepting lab assignment, go to GitHub repo, and click "Code" and open up Codespaces ("Create codespace on main"); after creating one Codespace, you don't need to create a new one each time - you can open the previous one by pressing the arrow dropdown and selecting the most recent one
-2. go to Shell and run ```source background/.bashrc```, then ```install_pytest``` to install pytest code tester (auto-tester)
+2. go to Shell and run ```source .bashrc```, then ```install_pytest``` to install pytest code tester (auto-tester)
 3. run ```import_packs``` to correctly import files and packages
   
 ## completing problems:
